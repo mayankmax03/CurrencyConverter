@@ -8,7 +8,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 min-height: 100vh;
-background-color: #f4e4ba;
+background-color: #8f805c;
 }
 
 .container {
@@ -75,8 +75,13 @@ margin: 2rem 0 2rem 0;
 
 form button {
 height: 3rem;
-background-color: #af4d98;
+background-color: #51d2db;
 color: #fff;
 font-size: 1.15rem;
 cursor: pointer;
+}
+button:hover{
+    background-color: rgb(248, 153, 10);
+    font-size: 1rem;
+
 }
